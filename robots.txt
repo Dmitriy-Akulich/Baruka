@@ -1,0 +1,4 @@
+User-agent: *
+Host: http://shop-bel.online
+
+Sitemap: http://shop-bel.online/sitemap.xml
